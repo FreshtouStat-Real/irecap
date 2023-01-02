@@ -1,0 +1,153 @@
+
+
+body{
+    font-family: 'Ubuntu';
+}
+
+h1{
+    font-family: 'Black Ops One';
+    color: rgb(0, 0, 0);
+    font-size: 2.5rem;
+    line-height: 1.5;
+    text-align: center;
+    padding: 2rem 0rem 0rem 4rem;
+    margin-bottom: 0%;
+}
+
+h3{
+     font-family: 'Black Ops One';
+     text-align: left;
+     margin: 2rem 0rem 0rem 7rem;
+
+}
+
+h4{
+    font-family: 'Black Ops One';
+     text-align: center;
+     color:white;
+     background-color: black;
+     margin: 7rem 10rem 0rem;
+}
+.bisi{
+    margin: 7rem 12rem 0rem;
+}
+.ojo{
+    margin: 7rem 15rem 0rem;
+}
+.ali{
+    margin: 7rem 14rem 0rem;
+}
+
+
+.car-text{
+    font-family: 'Ubuntu';
+    color: red;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 16px;
+    margin: 0rem 7rem 0rem;
+    padding: 0rem 0.5rem 0rem;
+    
+}
+
+p{
+    font-family: 'Ubuntu';
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: center;
+    padding: 0 2rem 2rem;
+    margin-top: 0%;
+}
+
+.navbar{
+    display: ;
+}
+
+#title{
+    background-color: chartreuse;
+    height: auto;
+    
+}
+
+
+
+.team_image{
+    height: 500px;
+    border-radius: 15%;
+}
+
+.heading-image{
+    margin: 0rem;
+}
+.img-top{
+    margin: 2rem 0rem 2rem ;
+    padding-right: 2rem;
+    width: 650px;
+}
+
+.container-fluid{
+    padding: 2rem 3rem 2rem 1rem;
+    margin: 0% 1rem 0rem 1rem;
+
+}
+
+.btn-title{
+    margin: 1rem 1rem 0rem 1rem;
+}
+
+#team{
+    padding: 7% 15%;
+    text-align: center;
+    background-color:yellowgreen;
+    font-family: 'Ubuntu';
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.sponsor_logo{
+    height: 100px;
+    margin: 10px 20px 10px;
+}
+
+#sponsor{
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#contact{
+    text-align: center;
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem 0.5rem;
+    color: white;
+    background-color: darkgreen;
+}
+
+.whatsapp{
+    color: white;
+}
+
+.fa-brands, .fa-solid{
+    font-size: 32px;
+    color: darkgoldenrod;
+}
+
+.con{
+    padding-left: 3rem;
+    margin: auto;
+}
+
+.cont{
+    margin: 1.5rem;
+    font-size: 32px;
+    
+   
+}
+
+.con-row{
+    margin: 0rem 1rem 0rem 8rem;
+}
+
+#copyright{
+    text-align: right;
+    margin: 0.5rem 1rem 1rem 20rem;
+}
